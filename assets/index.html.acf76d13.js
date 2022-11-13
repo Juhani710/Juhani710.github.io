@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bfd02c04","path":"/categories/yuyanxuexibiji/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
